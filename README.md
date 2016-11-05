@@ -1,1 +1,1 @@
-# swapnil2129
+To reduce the risk of landing overrun, study is done on different factors and how they impact the landing distance of commercial flight. Two raw data sets with over 950 observations are cleaned, explored, modelled and checked using SAS.  Total of 831 observations (flight) are used to fit the final regression model. Regression modelling suggest factors like speed of aircraft on ground, height of an aircraft when it is passing over the threshold runway and make of aircraft impact landing distance of flight.
